@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  user-service:
+    build: ./user-service
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./user-service/users.json:/app/users.json
