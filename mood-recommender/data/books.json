@@ -3,12 +3,1662 @@
     "title": "The Alchemist",
     "author": "Paulo Coelho",
     "genre": "Fiction",
-    "moodTags": ["inspirational", "relaxing", "philosophical"]
+    "moodTags": ["inspirational", "philosophical", "adventure"]
   },
   {
     "title": "Atomic Habits",
     "author": "James Clear",
     "genre": "Self-help",
     "moodTags": ["motivational", "practical", "focused"]
+  },
+  {
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "author": "Taylor Jenkins Reid",
+    "genre": "Fiction",
+    "moodTags": ["romantic", "dramatic", "glamorous"]
+  },
+  {
+    "title": "Educated",
+    "author": "Tara Westover",
+    "genre": "Biography & Memoir",
+    "moodTags": ["inspiring", "shocking", "educational"]
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "genre": "Fiction",
+    "moodTags": ["philosophical", "hopeful", "thought-provoking"]
+  },
+  {
+    "title": "Sapiens",
+    "author": "Yuval Noah Harari",
+    "genre": "Non-fiction",
+    "moodTags": ["informative", "mind-expanding", "analytical"]
+  },
+  {
+    "title": "The Silent Patient",
+    "author": "Alex Michaelides",
+    "genre": "Thriller",
+    "moodTags": ["suspenseful", "psychological", "mysterious"]
+  },
+  {
+    "title": "Becoming",
+    "author": "Michelle Obama",
+    "genre": "Biography & Memoir",
+    "moodTags": ["inspiring", "empowering", "personal"]
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian Fiction",
+    "moodTags": ["disturbing", "thought-provoking", "feminist"]
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "genre": "Classic Literature",
+    "moodTags": ["melancholic", "romantic", "tragic"]
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "genre": "Dystopian Fiction",
+    "moodTags": ["dark", "political", "cautionary"]
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "genre": "Classic Literature",
+    "moodTags": ["moral", "moving", "educational"]
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "Khaled Hosseini",
+    "genre": "Fiction",
+    "moodTags": ["emotional", "heart-wrenching", "redemptive"]
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "genre": "Classic Literature",
+    "moodTags": ["romantic", "witty", "charming"]
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "genre": "Historical Fiction",
+    "moodTags": ["poignant", "beautiful", "tragic"]
+  },
+  {
+    "title": "Gone Girl",
+    "author": "Gillian Flynn",
+    "genre": "Thriller",
+    "moodTags": ["dark", "twisted", "psychological"]
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "genre": "Classic Literature",
+    "moodTags": ["rebellious", "coming-of-age", "melancholic"]
+  },
+  {
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "genre": "Fantasy",
+    "moodTags": ["magical", "adventurous", "nostalgic"]
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "genre": "Young Adult",
+    "moodTags": ["emotional", "romantic", "bittersweet"]
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "moodTags": ["adventurous", "whimsical", "epic"]
+  },
+  {
+    "title": "The Subtle Art of Not Giving a F*ck",
+    "author": "Mark Manson",
+    "genre": "Self-help",
+    "moodTags": ["practical", "humorous", "honest"]
+  },
+  {
+    "title": "Where the Crawdads Sing",
+    "author": "Delia Owens",
+    "genre": "Fiction",
+    "moodTags": ["atmospheric", "mysterious", "nature-focused"]
+  },
+  {
+    "title": "The Power of Now",
+    "author": "Eckhart Tolle",
+    "genre": "Self-help",
+    "moodTags": ["spiritual", "calming", "enlightening"]
+  },
+  {
+    "title": "Big Little Lies",
+    "author": "Liane Moriarty",
+    "genre": "Fiction",
+    "moodTags": ["suspenseful", "witty", "domestic"]
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "Dan Brown",
+    "genre": "Thriller",
+    "moodTags": ["fast-paced", "mysterious", "adventurous"]
+  },
+  {
+    "title": "Life of Pi",
+    "author": "Yann Martel",
+    "genre": "Adventure Fiction",
+    "moodTags": ["spiritual", "survival", "philosophical"]
+  },
+  {
+    "title": "The Girl with the Dragon Tattoo",
+    "author": "Stieg Larsson",
+    "genre": "Crime Thriller",
+    "moodTags": ["dark", "intense", "investigative"]
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "genre": "Mythology",
+    "moodTags": ["enchanting", "feminist", "lyrical"]
+  },
+  {
+    "title": "The Testaments",
+    "author": "Margaret Atwood",
+    "genre": "Dystopian Fiction",
+    "moodTags": ["political", "hopeful", "empowering"]
+  },
+  {
+    "title": "Normal People",
+    "author": "Sally Rooney",
+    "genre": "Literary Fiction",
+    "moodTags": ["intimate", "complex", "emotional"]
+  },
+  {
+    "title": "The Nightingale",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "moodTags": ["emotional", "powerful", "heartbreaking"]
+  },
+  {
+    "title": "Little Fires Everywhere",
+    "author": "Celeste Ng",
+    "genre": "Fiction",
+    "moodTags": ["thought-provoking", "dramatic", "family-focused"]
+  },
+  {
+    "title": "The Four Agreements",
+    "author": "Don Miguel Ruiz",
+    "genre": "Self-help",
+    "moodTags": ["spiritual", "transformative", "practical"]
+  },
+  {
+    "title": "A Man Called Ove",
+    "author": "Fredrik Backman",
+    "genre": "Fiction",
+    "moodTags": ["heartwarming", "humorous", "touching"]
+  },
+  {
+    "title": "The Goldfinch",
+    "author": "Donna Tartt",
+    "genre": "Literary Fiction",
+    "moodTags": ["artistic", "complex", "atmospheric"]
+  },
+  {
+    "title": "Dune",
+    "author": "Frank Herbert",
+    "genre": "Science Fiction",
+    "moodTags": ["epic", "complex", "political"]
+  },
+  {
+    "title": "The Hunger Games",
+    "author": "Suzanne Collins",
+    "genre": "Dystopian Fiction",
+    "moodTags": ["action-packed", "rebellious", "intense"]
+  },
+  {
+    "title": "The Girl on the Train",
+    "author": "Paula Hawkins",
+    "genre": "Thriller",
+    "moodTags": ["psychological", "suspenseful", "dark"]
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "genre": "Psychology",
+    "moodTags": ["analytical", "insightful", "educational"]
+  },
+  {
+    "title": "The Outsider",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "moodTags": ["suspenseful", "supernatural", "dark"]
+  },
+  {
+    "title": "Born a Crime",
+    "author": "Trevor Noah",
+    "genre": "Biography & Memoir",
+    "moodTags": ["humorous", "inspiring", "eye-opening"]
+  },
+  {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "moodTags": ["optimistic", "technical", "humorous"]
+  },
+  {
+    "title": "Eleanor Oliphant Is Completely Fine",
+    "author": "Gail Honeyman",
+    "genre": "Fiction",
+    "moodTags": ["quirky", "heartwarming", "healing"]
+  },
+  {
+    "title": "The Giver",
+    "author": "Lois Lowry",
+    "genre": "Dystopian Fiction",
+    "moodTags": ["thought-provoking", "philosophical", "disturbing"]
+  },
+  {
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "genre": "Historical Fiction",
+    "moodTags": ["dramatic", "romantic", "epic"]
+  },
+  {
+    "title": "The Lord of the Rings",
+    "author": "J.R.R. Tolkien",
+    "genre": "Fantasy",
+    "moodTags": ["epic", "adventurous", "heroic"]
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "genre": "Magical Realism",
+    "moodTags": ["mystical", "complex", "lyrical"]
+  },
+  {
+    "title": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "genre": "Fantasy",
+    "moodTags": ["magical", "adventurous", "allegorical"]
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "genre": "Dystopian Fiction",
+    "moodTags": ["philosophical", "disturbing", "prophetic"]
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "genre": "Horror",
+    "moodTags": ["terrifying", "psychological", "atmospheric"]
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "Charlotte Brontë",
+    "genre": "Classic Literature",
+    "moodTags": ["romantic", "gothic", "empowering"]
+  },
+  {
+    "title": "Wuthering Heights",
+    "author": "Emily Brontë",
+    "genre": "Classic Literature",
+    "moodTags": ["passionate", "dark", "intense"]
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "genre": "Classic Literature",
+    "moodTags": ["decadent", "philosophical", "dark"]
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Classic Literature",
+    "moodTags": ["psychological", "moral", "intense"]
+  },
+  {
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "genre": "Classic Literature",
+    "moodTags": ["tragic", "romantic", "profound"]
+  },
+  {
+    "title": "The Brothers Karamazov",
+    "author": "Fyodor Dostoevsky",
+    "genre": "Classic Literature",
+    "moodTags": ["philosophical", "complex", "spiritual"]
+  },
+  {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "genre": "Classic Literature",
+    "moodTags": ["epic", "philosophical", "adventurous"]
+  },
+  {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "genre": "Classic Literature",
+    "moodTags": ["adventurous", "revenge", "dramatic"]
+  },
+  {
+    "title": "Les Misérables",
+    "author": "Victor Hugo",
+    "genre": "Classic Literature",
+    "moodTags": ["epic", "moral", "emotional"]
+  },
+  {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "moodTags": ["heroic", "adventurous", "mythological"]
+  },
+  {
+    "title": "The Iliad",
+    "author": "Homer",
+    "genre": "Epic Poetry",
+    "moodTags": ["heroic", "tragic", "war-focused"]
+  },
+  {
+    "title": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "genre": "Classic Literature",
+    "moodTags": ["humorous", "satirical", "idealistic"]
+  },
+  {
+    "title": "War and Peace",
+    "author": "Leo Tolstoy",
+    "genre": "Classic Literature",
+    "moodTags": ["epic", "historical", "philosophical"]
+  },
+  {
+    "title": "The Divine Comedy",
+    "author": "Dante Alighieri",
+    "genre": "Epic Poetry",
+    "moodTags": ["spiritual", "allegorical", "profound"]
+  },
+  {
+    "title": "Hamlet",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["tragic", "philosophical", "intense"]
+  },
+  {
+    "title": "Romeo and Juliet",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["romantic", "tragic", "passionate"]
+  },
+  {
+    "title": "Macbeth",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["dark", "ambitious", "tragic"]
+  },
+  {
+    "title": "King Lear",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["tragic", "complex", "dark"]
+  },
+  {
+    "title": "Othello",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["tragic", "jealous", "intense"]
+  },
+  {
+    "title": "The Tempest",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["magical", "redemptive", "romantic"]
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["whimsical", "romantic", "comedic"]
+  },
+  {
+    "title": "Much Ado About Nothing",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["witty", "romantic", "comedic"]
+  },
+  {
+    "title": "The Merchant of Venice",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["complex", "moral", "dramatic"]
+  },
+  {
+    "title": "As You Like It",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["pastoral", "romantic", "comedic"]
+  },
+  {
+    "title": "The Taming of the Shrew",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["comedic", "controversial", "energetic"]
+  },
+  {
+    "title": "Julius Caesar",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["political", "tragic", "historical"]
+  },
+  {
+    "title": "Twelfth Night",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["romantic", "comedic", "musical"]
+  },
+  {
+    "title": "Richard III",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["dark", "political", "villainous"]
+  },
+  {
+    "title": "Henry V",
+    "author": "William Shakespeare",
+    "genre": "Drama",
+    "moodTags": ["heroic", "patriotic", "inspiring"]
+  },
+  {
+    "title": "The Great Expectations",
+    "author": "Charles Dickens",
+    "genre": "Classic Literature",
+    "moodTags": ["coming-of-age", "social", "moral"]
+  },
+  {
+    "title": "Oliver Twist",
+    "author": "Charles Dickens",
+    "genre": "Classic Literature",
+    "moodTags": ["social", "dark", "sympathetic"]
+  },
+  {
+    "title": "A Christmas Carol",
+    "author": "Charles Dickens",
+    "genre": "Classic Literature",
+    "moodTags": ["redemptive", "festive", "moral"]
+  },
+  {
+    "title": "David Copperfield",
+    "author": "Charles Dickens",
+    "genre": "Classic Literature",
+    "moodTags": ["autobiographical", "social", "coming-of-age"]
+  },
+  {
+    "title": "A Tale of Two Cities",
+    "author": "Charles Dickens",
+    "genre": "Classic Literature",
+    "moodTags": ["historical", "revolutionary", "sacrificial"]
+  },
+  {
+    "title": "Hard Times",
+    "author": "Charles Dickens",
+    "genre": "Classic Literature",
+    "moodTags": ["social", "industrial", "critical"]
+  },
+  {
+    "title": "Bleak House",
+    "author": "Charles Dickens",
+    "genre": "Classic Literature",
+    "moodTags": ["social", "complex", "atmospheric"]
+  },
+  {
+    "title": "Little Dorrit",
+    "author": "Charles Dickens",
+    "genre": "Classic Literature",
+    "moodTags": ["social", "prison", "redemptive"]
+  },
+  {
+    "title": "Our Mutual Friend",
+    "author": "Charles Dickens",
+    "genre": "Classic Literature",
+    "moodTags": ["social", "complex", "mysterious"]
+  },
+  {
+    "title": "The Mystery of Edwin Drood",
+    "author": "Charles Dickens",
+    "genre": "Classic Literature",
+    "moodTags": ["mysterious", "unfinished", "gothic"]
+  },
+  {
+    "title": "The Adventures of Huckleberry Finn",
+    "author": "Mark Twain",
+    "genre": "Classic Literature",
+    "moodTags": ["adventurous", "satirical", "coming-of-age"]
+  },
+  {
+    "title": "The Adventures of Tom Sawyer",
+    "author": "Mark Twain",
+    "genre": "Classic Literature",
+    "moodTags": ["adventurous", "nostalgic", "childhood"]
+  },
+  {
+    "title": "The Prince and the Pauper",
+    "author": "Mark Twain",
+    "genre": "Classic Literature",
+    "moodTags": ["social", "adventurous", "moral"]
+  },
+  {
+    "title": "A Connecticut Yankee in King Arthur's Court",
+    "author": "Mark Twain",
+    "genre": "Classic Literature",
+    "moodTags": ["satirical", "time-travel", "humorous"]
+  },
+  {
+    "title": "The Innocents Abroad",
+    "author": "Mark Twain",
+    "genre": "Travel Literature",
+    "moodTags": ["humorous", "observational", "satirical"]
+  },
+  {
+    "title": "Pudd'nhead Wilson",
+    "author": "Mark Twain",
+    "genre": "Classic Literature",
+    "moodTags": ["satirical", "social", "mysterious"]
+  },
+  {
+    "title": "The Celebrated Jumping Frog of Calaveras County",
+    "author": "Mark Twain",
+    "genre": "Short Stories",
+    "moodTags": ["humorous", "folksy", "satirical"]
+  },
+  {
+    "title": "Roughing It",
+    "author": "Mark Twain",
+    "genre": "Memoir",
+    "moodTags": ["adventurous", "humorous", "western"]
+  },
+  {
+    "title": "The Gilded Age",
+    "author": "Mark Twain",
+    "genre": "Classic Literature",
+    "moodTags": ["satirical", "social", "political"]
+  },
+  {
+    "title": "Following the Equator",
+    "author": "Mark Twain",
+    "genre": "Travel Literature",
+    "moodTags": ["observational", "humorous", "worldly"]
+  },
+  {
+    "title": "The Scarlet Letter",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Classic Literature",
+    "moodTags": ["moral", "puritan", "symbolic"]
+  },
+  {
+    "title": "The House of Seven Gables",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Classic Literature",
+    "moodTags": ["gothic", "family", "atmospheric"]
+  },
+  {
+    "title": "The Blithedale Romance",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Classic Literature",
+    "moodTags": ["utopian", "romantic", "social"]
+  },
+  {
+    "title": "The Marble Faun",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Classic Literature",
+    "moodTags": ["artistic", "moral", "european"]
+  },
+  {
+    "title": "Twice-Told Tales",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Short Stories",
+    "moodTags": ["allegorical", "moral", "atmospheric"]
+  },
+  {
+    "title": "Mosses from an Old Manse",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Short Stories",
+    "moodTags": ["symbolic", "psychological", "dark"]
+  },
+  {
+    "title": "The Snow-Image and Other Twice-Told Tales",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Short Stories",
+    "moodTags": ["fantastical", "moral", "allegorical"]
+  },
+  {
+    "title": "A Wonder-Book for Girls and Boys",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Children's Literature",
+    "moodTags": ["mythological", "educational", "whimsical"]
+  },
+  {
+    "title": "Tanglewood Tales",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Children's Literature",
+    "moodTags": ["mythological", "adventure", "educational"]
+  },
+  {
+    "title": "The Dolliver Romance",
+    "author": "Nathaniel Hawthorne",
+    "genre": "Classic Literature",
+    "moodTags": ["unfinished", "aging", "philosophical"]
+  },
+  {
+    "title": "Walden",
+    "author": "Henry David Thoreau",
+    "genre": "Philosophy",
+    "moodTags": ["contemplative", "nature", "simple"]
+  },
+  {
+    "title": "Civil Disobedience",
+    "author": "Henry David Thoreau",
+    "genre": "Political Philosophy",
+    "moodTags": ["rebellious", "moral", "influential"]
+  },
+  {
+    "title": "A Week on the Concord and Merrimack Rivers",
+    "author": "Henry David Thoreau",
+    "genre": "Travel Literature",
+    "moodTags": ["reflective", "nature", "philosophical"]
+  },
+  {
+    "title": "The Maine Woods",
+    "author": "Henry David Thoreau",
+    "genre": "Nature Writing",
+    "moodTags": ["wilderness", "observational", "reflective"]
+  },
+  {
+    "title": "Cape Cod",
+    "author": "Henry David Thoreau",
+    "genre": "Nature Writing",
+    "moodTags": ["coastal", "observational", "humorous"]
+  },
+  {
+    "title": "A Yankee in Canada",
+    "author": "Henry David Thoreau",
+    "genre": "Travel Literature",
+    "moodTags": ["observational", "cultural", "reflective"]
+  },
+  {
+    "title": "Excursions",
+    "author": "Henry David Thoreau",
+    "genre": "Nature Writing",
+    "moodTags": ["nature", "philosophical", "observational"]
+  },
+  {
+    "title": "Life Without Principle",
+    "author": "Henry David Thoreau",
+    "genre": "Philosophy",
+    "moodTags": ["moral", "social", "critical"]
+  },
+  {
+    "title": "The Journal of Henry David Thoreau",
+    "author": "Henry David Thoreau",
+    "genre": "Memoir",
+    "moodTags": ["contemplative", "daily", "nature"]
+  },
+  {
+    "title": "Wild Apples",
+    "author": "Henry David Thoreau",
+    "genre": "Nature Writing",
+    "moodTags": ["botanical", "symbolic", "detailed"]
+  },
+  {
+    "title": "Leaves of Grass",
+    "author": "Walt Whitman",
+    "genre": "Poetry",
+    "moodTags": ["celebratory", "democratic", "sensual"]
+  },
+  {
+    "title": "Song of Myself",
+    "author": "Walt Whitman",
+    "genre": "Poetry",
+    "moodTags": ["self-celebrating", "spiritual", "universal"]
+  },
+  {
+    "title": "When Lilacs Last in the Dooryard Bloom'd",
+    "author": "Walt Whitman",
+    "genre": "Poetry",
+    "moodTags": ["elegiac", "mourning", "spiritual"]
+  },
+  {
+    "title": "O Captain! My Captain!",
+    "author": "Walt Whitman",
+    "genre": "Poetry",
+    "moodTags": ["mourning", "patriotic", "tribute"]
+  },
+  {
+    "title": "Drum-Taps",
+    "author": "Walt Whitman",
+    "genre": "Poetry",
+    "moodTags": ["war", "patriotic", "emotional"]
+  },
+  {
+    "title": "Crossing Brooklyn Ferry",
+    "author": "Walt Whitman",
+    "genre": "Poetry",
+    "moodTags": ["urban", "connecting", "timeless"]
+  },
+  {
+    "title": "I Sing the Body Electric",
+    "author": "Walt Whitman",
+    "genre": "Poetry",
+    "moodTags": ["celebratory", "physical", "spiritual"]
+  },
+  {
+    "title": "A Noiseless Patient Spider",
+    "author": "Walt Whitman",
+    "genre": "Poetry",
+    "moodTags": ["contemplative", "symbolic", "lonely"]
+  },
+  {
+    "title": "Out of the Cradle Endlessly Rocking",
+    "author": "Walt Whitman",
+    "genre": "Poetry",
+    "moodTags": ["nostalgic", "nature", "loss"]
+  },
+  {
+    "title": "The Wound-Dresser",
+    "author": "Walt Whitman",
+    "genre": "Poetry",
+    "moodTags": ["compassionate", "war", "healing"]
+  },
+  {
+    "title": "The Raven",
+    "author": "Edgar Allan Poe",
+    "genre": "Poetry",
+    "moodTags": ["dark", "melancholic", "mysterious"]
+  },
+  {
+    "title": "The Tell-Tale Heart",
+    "author": "Edgar Allan Poe",
+    "genre": "Short Stories",
+    "moodTags": ["psychological", "horror", "guilt"]
+  },
+  {
+    "title": "The Fall of the House of Usher",
+    "author": "Edgar Allan Poe",
+    "genre": "Short Stories",
+    "moodTags": ["gothic", "atmospheric", "decay"]
+  },
+  {
+    "title": "The Pit and the Pendulum",
+    "author": "Edgar Allan Poe",
+    "genre": "Short Stories",
+    "moodTags": ["torture", "suspenseful", "psychological"]
+  },
+  {
+    "title": "The Cask of Amontillado",
+    "author": "Edgar Allan Poe",
+    "genre": "Short Stories",
+    "moodTags": ["revenge", "dark", "ironic"]
+  },
+  {
+    "title": "The Masque of the Red Death",
+    "author": "Edgar Allan Poe",
+    "genre": "Short Stories",
+    "moodTags": ["allegorical", "death", "gothic"]
+  },
+  {
+    "title": "The Murders in the Rue Morgue",
+    "author": "Edgar Allan Poe",
+    "genre": "Detective Fiction",
+    "moodTags": ["analytical", "mysterious", "pioneering"]
+  },
+  {
+    "title": "The Gold-Bug",
+    "author": "Edgar Allan Poe",
+    "genre": "Short Stories",
+    "moodTags": ["cryptographic", "adventure", "mysterious"]
+  },
+  {
+    "title": "The Purloined Letter",
+    "author": "Edgar Allan Poe",
+    "genre": "Detective Fiction",
+    "moodTags": ["logical", "psychological", "clever"]
+  },
+  {
+    "title": "Annabel Lee",
+    "author": "Edgar Allan Poe",
+    "genre": "Poetry",
+    "moodTags": ["romantic", "tragic", "haunting"]
+  },
+  {
+    "title": "The Bells",
+    "author": "Edgar Allan Poe",
+    "genre": "Poetry",
+    "moodTags": ["musical", "dark", "repetitive"]
+  },
+  {
+    "title": "Ulalume",
+    "author": "Edgar Allan Poe",
+    "genre": "Poetry",
+    "moodTags": ["melancholic", "mysterious", "atmospheric"]
+  },
+  {
+    "title": "The Philosophy of Composition",
+    "author": "Edgar Allan Poe",
+    "genre": "Literary Criticism",
+    "moodTags": ["analytical", "methodical", "instructive"]
+  },
+  {
+    "title": "Eureka",
+    "author": "Edgar Allan Poe",
+    "genre": "Philosophy",
+    "moodTags": ["cosmological", "ambitious", "speculative"]
+  },
+  {
+    "title": "The Narrative of Arthur Gordon Pym",
+    "author": "Edgar Allan Poe",
+    "genre": "Adventure Fiction",
+    "moodTags": ["mysterious", "adventure", "unfinished"]
+  },
+  {
+    "title": "The Little Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "genre": "Children's Literature",
+    "moodTags": ["philosophical", "whimsical", "touching"]
+  },
+  {
+    "title": "Alice's Adventures in Wonderland",
+    "author": "Lewis Carroll",
+    "genre": "Children's Literature",
+    "moodTags": ["whimsical", "nonsensical", "imaginative"]
+  },
+  {
+    "title": "Through the Looking-Glass",
+    "author": "Lewis Carroll",
+    "genre": "Children's Literature",
+    "moodTags": ["surreal", "logical", "playful"]
+  },
+  {
+    "title": "The Hunting of the Snark",
+    "author": "Lewis Carroll",
+    "genre": "Poetry",
+    "moodTags": ["nonsensical", "adventurous", "absurd"]
+  },
+  {
+    "title": "Sylvie and Bruno",
+    "author": "Lewis Carroll",
+    "genre": "Children's Literature",
+    "moodTags": ["fantastical", "complex", "Victorian"]
+  },
+  {
+    "title": "The Adventures of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "moodTags": ["analytical", "mysterious", "logical"]
+  },
+  {
+    "title": "The Hound of the Baskervilles",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "moodTags": ["gothic", "mysterious", "atmospheric"]
+  },
+  {
+    "title": "A Study in Scarlet",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "moodTags": ["introductory", "methodical", "pioneering"]
+  },
+  {
+    "title": "The Sign of Four",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "moodTags": ["exotic", "complex", "adventurous"]
+  },
+  {
+    "title": "The Valley of Fear",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "moodTags": ["dark", "American", "crime"]
+  },
+  {
+    "title": "The Memoirs of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "moodTags": ["varied", "clever", "final"]
+  },
+  {
+    "title": "The Return of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "moodTags": ["resurrection", "clever", "popular"]
+  },
+  {
+    "title": "His Last Bow",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "moodTags": ["wartime", "patriotic", "mature"]
+  },
+  {
+    "title": "The Case-Book of Sherlock Holmes",
+    "author": "Arthur Conan Doyle",
+    "genre": "Detective Fiction",
+    "moodTags": ["final", "varied", "experimental"]
+  },
+  {
+    "title": "The Lost World",
+    "author": "Arthur Conan Doyle",
+    "genre": "Adventure Fiction",
+    "moodTags": ["prehistoric", "adventurous", "scientific"]
+  },
+  {
+    "title": "Frankenstein",
+    "author": "Mary Shelley",
+    "genre": "Gothic Fiction",
+    "moodTags": ["scientific", "moral", "dark"]
+  },
+  {
+    "title": "The Last Man",
+    "author": "Mary Shelley",
+    "genre": "Science Fiction",
+    "moodTags": ["apocalyptic", "lonely", "prophetic"]
+  },
+  {
+    "title": "Mathilda",
+    "author": "Mary Shelley",
+    "genre": "Gothic Fiction",
+    "moodTags": ["tragic", "forbidden", "dark"]
+  },
+  {
+    "title": "The Mortal Immortal",
+    "author": "Mary Shelley",
+    "genre": "Short Stories",
+    "moodTags": ["philosophical", "immortality", "melancholic"]
+  },
+  {
+    "title": "Transformation",
+    "author": "Mary Shelley",
+    "genre": "Short Stories",
+    "moodTags": ["supernatural", "moral", "gothic"]
+  },
+  {
+    "title": "Dracula",
+    "author": "Bram Stoker",
+    "genre": "Gothic Fiction",
+    "moodTags": ["terrifying", "supernatural", "Victorian"]
+  },
+  {
+    "title": "The Lair of the White Worm",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "moodTags": ["serpentine", "ancient", "mysterious"]
+  },
+  {
+    "title": "The Jewel of Seven Stars",
+    "author": "Bram Stoker",
+    "genre": "Horror",
+    "moodTags": ["Egyptian", "supernatural", "archaeological"]
+  },
+  {
+    "title": "The Lady of the Shroud",
+    "author": "Bram Stoker",
+    "genre": "Adventure Fiction",
+    "moodTags": ["romantic", "political", "mysterious"]
+  },
+  {
+    "title": "The Man",
+    "author": "Bram Stoker",
+    "genre": "Romance",
+    "moodTags": ["unconventional", "romantic", "social"]
+  },
+  {
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author": "Robert Louis Stevenson",
+    "genre": "Gothic Fiction",
+    "moodTags": ["psychological", "moral", "dual"]
+  },
+  {
+    "title": "Treasure Island",
+    "author": "Robert Louis Stevenson",
+    "genre": "Adventure Fiction",
+    "moodTags": ["pirate", "adventure", "coming-of-age"]
+  },
+  {
+    "title": "Kidnapped",
+    "author": "Robert Louis Stevenson",
+    "genre": "Adventure Fiction",
+    "moodTags": ["Scottish", "adventure", "historical"]
+  },
+  {
+    "title": "The Master of Ballantrae",
+    "author": "Robert Louis Stevenson",
+    "genre": "Adventure Fiction",
+    "moodTags": ["dark", "brotherly", "Scottish"]
+  },
+  {
+    "title": "The Black Arrow",
+    "author": "Robert Louis Stevenson",
+    "genre": "Historical Fiction",
+    "moodTags": ["medieval", "adventure", "war"]
+  },
+  {
+    "title": "A Child's Garden of Verses",
+    "author": "Robert Louis Stevenson",
+    "genre": "Children's Poetry",
+    "moodTags": ["nostalgic", "innocent", "playful"]
+  },
+  {
+    "title": "New Arabian Nights",
+    "author": "Robert Louis Stevenson",
+    "genre": "Short Stories",
+    "moodTags": ["exotic", "adventurous", "mysterious"]
+  },
+  {
+    "title": "The Merry Men",
+    "author": "Robert Louis Stevenson",
+    "genre": "Short Stories",
+    "moodTags": ["Scottish", "supernatural", "atmospheric"]
+  },
+  {
+    "title": "Island Nights' Entertainments",
+    "author": "Robert Louis Stevenson",
+    "genre": "Short Stories",
+    "moodTags": ["tropical", "cultural", "exotic"]
+  },
+  {
+    "title": "Catriona",
+    "author": "Robert Louis Stevenson",
+    "genre": "Adventure Fiction",
+    "moodTags": ["Scottish", "romantic", "historical"]
+  },
+  {
+    "title": "The Time Machine",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "moodTags": ["futuristic", "social", "warning"]
+  },
+  {
+    "title": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "moodTags": ["invasion", "apocalyptic", "survival"]
+  },
+  {
+    "title": "The Invisible Man",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "moodTags": ["scientific", "moral", "isolation"]
+  },
+  {
+    "title": "The Island of Doctor Moreau",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "moodTags": ["horrific", "scientific", "moral"]
+  },
+  {
+    "title": "When the Sleeper Wakes",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "moodTags": ["dystopian", "future", "social"]
+  },
+  {
+    "title": "The First Men in the Moon",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "moodTags": ["lunar", "adventure", "scientific"]
+  },
+  {
+    "title": "The Food of the Gods",
+    "author": "H.G. Wells",
+    "genre": "Science Fiction",
+    "moodTags": ["gigantic", "scientific", "consequence"]
+  },
+  {
+    "title": "A Modern Utopia",
+    "author": "H.G. Wells",
+    "genre": "Utopian Fiction",
+    "moodTags": ["idealistic", "social", "philosophical"]
+  },
+  {
+    "title": "Kipps",
+    "author": "H.G. Wells",
+    "genre": "Social Fiction",
+    "moodTags": ["social", "comedic", "class"]
+  },
+  {
+    "title": "Tono-Bungay",
+    "author": "H.G. Wells",
+    "genre": "Social Fiction",
+    "moodTags": ["satirical", "social", "commercial"]
+  },
+  {
+    "title": "Twenty Thousand Leagues Under the Sea",
+    "author": "Jules Verne",
+    "genre": "Adventure Fiction",
+    "moodTags": ["underwater", "adventurous", "scientific"]
+  },
+  {
+    "title": "Around the World in Eighty Days",
+    "author": "Jules Verne",
+    "genre": "Adventure Fiction",
+    "moodTags": ["travel", "adventure", "race"]
+  },
+  {
+    "title": "Journey to the Center of the Earth",
+    "author": "Jules Verne",
+    "genre": "Adventure Fiction",
+    "moodTags": ["underground", "scientific", "exploratory"]
+  },
+  {
+    "title": "From the Earth to the Moon",
+    "author": "Jules Verne",
+    "genre": "Science Fiction",
+    "moodTags": ["lunar", "ambitious", "scientific"]
+  },
+  {
+    "title": "The Mysterious Island",
+    "author": "Jules Verne",
+    "genre": "Adventure Fiction",
+    "moodTags": ["survival", "mysterious", "engineering"]
+  },
+  {
+    "title": "Five Weeks in a Balloon",
+    "author": "Jules Verne",
+    "genre": "Adventure Fiction",
+    "moodTags": ["aerial", "African", "exploratory"]
+  },
+  {
+    "title": "The Children of Captain Grant",
+    "author": "Jules Verne",
+    "genre": "Adventure Fiction",
+    "moodTags": ["search", "global", "family"]
+  },
+  {
+    "title": "Michael Strogoff",
+    "author": "Jules Verne",
+    "genre": "Adventure Fiction",
+    "moodTags": ["Russian", "courier", "heroic"]
+  },
+  {
+    "title": "Robur the Conqueror",
+    "author": "Jules Verne",
+    "genre": "Science Fiction",
+    "moodTags": ["aerial", "technological", "conquest"]
+  },
+  {
+    "title": "The Master of the World",
+    "author": "Jules Verne",
+    "genre": "Science Fiction",
+    "moodTags": ["technological", "chase", "inventive"]
+  },
+  {
+    "title": "The Sun Also Rises",
+    "author": "Ernest Hemingway",
+    "genre": "Literary Fiction",
+    "moodTags": ["lost generation", "romantic", "disillusioned"]
+  },
+  {
+    "title": "A Farewell to Arms",
+    "author": "Ernest Hemingway",
+    "genre": "War Fiction",
+    "moodTags": ["romantic", "tragic", "wartime"]
+  },
+  {
+    "title": "For Whom the Bell Tolls",
+    "author": "Ernest Hemingway",
+    "genre": "War Fiction",
+    "moodTags": ["Spanish Civil War", "heroic", "sacrifice"]
+  },
+  {
+    "title": "The Old Man and the Sea",
+    "author": "Ernest Hemingway",
+    "genre": "Literary Fiction",
+    "moodTags": ["struggle", "dignified", "oceanic"]
+  },
+  {
+    "title": "The Snows of Kilimanjaro",
+    "author": "Ernest Hemingway",
+    "genre": "Short Stories",
+    "moodTags": ["death", "regret", "African"]
+  },
+  {
+    "title": "A Moveable Feast",
+    "author": "Ernest Hemingway",
+    "genre": "Memoir",
+    "moodTags": ["Parisian", "literary", "nostalgic"]
+  },
+  {
+    "title": "Green Hills of Africa",
+    "author": "Ernest Hemingway",
+    "genre": "Non-fiction",
+    "moodTags": ["hunting", "African", "adventure"]
+  },
+  {
+    "title": "Death in the Afternoon",
+    "author": "Ernest Hemingway",
+    "genre": "Non-fiction",
+    "moodTags": ["bullfighting", "cultural", "Spanish"]
+  },
+  {
+    "title": "To Have and Have Not",
+    "author": "Ernest Hemingway",
+    "genre": "Literary Fiction",
+    "moodTags": ["Caribbean", "crime", "economic"]
+  },
+  {
+    "title": "Across the River and Into the Trees",
+    "author": "Ernest Hemingway",
+    "genre": "Literary Fiction",
+    "moodTags": ["aging", "romantic", "reflective"]
+  },
+  {
+    "title": "The Sound and the Fury",
+    "author": "William Faulkner",
+    "genre": "Southern Literature",
+    "moodTags": ["stream-of-consciousness", "tragic", "complex"]
+  },
+  {
+    "title": "As I Lay Dying",
+    "author": "William Faulkner",
+    "genre": "Southern Literature",
+    "moodTags": ["death", "family", "rural"]
+  },
+  {
+    "title": "Light in August",
+    "author": "William Faulkner",
+    "genre": "Southern Literature",
+    "moodTags": ["racial", "violent", "Southern"]
+  },
+  {
+    "title": "Absalom, Absalom!",
+    "author": "William Faulkner",
+    "genre": "Southern Literature",
+    "moodTags": ["complex", "historical", "tragic"]
+  },
+  {
+    "title": "The Wild Palms",
+    "author": "William Faulkner",
+    "genre": "Southern Literature",
+    "moodTags": ["dual", "romantic", "tragic"]
+  },
+  {
+    "title": "Go Down, Moses",
+    "author": "William Faulkner",
+    "genre": "Southern Literature",
+    "moodTags": ["racial", "interconnected", "hunting"]
+  },
+  {
+    "title": "Intruder in the Dust",
+    "author": "William Faulkner",
+    "genre": "Southern Literature",
+    "moodTags": ["racial", "justice", "Southern"]
+  },
+  {
+    "title": "Sanctuary",
+    "author": "William Faulkner",
+    "genre": "Southern Literature",
+    "moodTags": ["violent", "dark", "crime"]
+  },
+  {
+    "title": "The Hamlet",
+    "author": "William Faulkner",
+    "genre": "Southern Literature",
+    "moodTags": ["rural", "comic", "Snopes"]
+  },
+  {
+    "title": "The Town",
+    "author": "William Faulkner",
+    "genre": "Southern Literature",
+    "moodTags": ["social", "Snopes", "changing"]
+  },
+  {
+    "title": "The Great Alone",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "moodTags": ["survival", "Alaska", "family"]
+  },
+  {
+    "title": "The Four Winds",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "moodTags": ["Depression era", "resilience", "dust bowl"]
+  },
+  {
+    "title": "The Women",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "moodTags": ["Vietnam War", "nursing", "women's stories"]
+  },
+  {
+    "title": "Firefly Lane",
+    "author": "Kristin Hannah",
+    "genre": "Women's Fiction",
+    "moodTags": ["friendship", "decades", "emotional"]
+  },
+  {
+    "title": "Winter Garden",
+    "author": "Kristin Hannah",
+    "genre": "Historical Fiction",
+    "moodTags": ["Russian", "family secrets", "wartime"]
+  },
+  {
+    "title": "The Magic Hour",
+    "author": "Kristin Hannah",
+    "genre": "Women's Fiction",
+    "moodTags": ["healing", "trauma", "small town"]
+  },
+  {
+    "title": "Night Road",
+    "author": "Kristin Hannah",
+    "genre": "Women's Fiction",
+    "moodTags": ["tragedy", "forgiveness", "parenting"]
+  },
+  {
+    "title": "Fly Away",
+    "author": "Kristin Hannah",
+    "genre": "Women's Fiction",
+    "moodTags": ["sequel", "addiction", "healing"]
+  },
+  {
+    "title": "Home Front",
+    "author": "Kristin Hannah",
+    "genre": "Women's Fiction",
+    "moodTags": ["military", "marriage", "deployment"]
+  },
+  {
+    "title": "The Wish",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "moodTags": ["nostalgic", "romantic", "North Carolina"]
+  },
+  {
+    "title": "The Notebook",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "moodTags": ["timeless", "romantic", "alzheimer's"]
+  },
+  {
+    "title": "A Walk to Remember",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "moodTags": ["young love", "tragic", "faith"]
+  },
+  {
+    "title": "Message in a Bottle",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "moodTags": ["mysterious", "romantic", "healing"]
+  },
+  {
+    "title": "The Rescue",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "moodTags": ["heroic", "romantic", "single mother"]
+  },
+  {
+    "title": "The Guardian",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "moodTags": ["protective", "romantic", "suspenseful"]
+  },
+  {
+    "title": "Nights in Rodanthe",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "moodTags": ["mature", "romantic", "coastal"]
+  },
+  {
+    "title": "The Wedding",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "moodTags": ["marriage", "renewal", "commitment"]
+  },
+  {
+    "title": "True Believer",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "moodTags": ["journalist", "mysterious", "romantic"]
+  },
+  {
+    "title": "At First Sight",
+    "author": "Nicholas Sparks",
+    "genre": "Romance",
+    "moodTags": ["sequel", "challenges", "love"]
+  },
+  {
+    "title": "It Ends with Us",
+    "author": "Colleen Hoover",
+    "genre": "Contemporary Romance",
+    "moodTags": ["domestic violence", "healing", "emotional"]
+  },
+  {
+    "title": "It Starts with Us",
+    "author": "Colleen Hoover",
+    "genre": "Contemporary Romance",
+    "moodTags": ["sequel", "healing", "new beginnings"]
+  },
+  {
+    "title": "Verity",
+    "author": "Colleen Hoover",
+    "genre": "Psychological Thriller",
+    "moodTags": ["dark", "twisted", "psychological"]
+  },
+  {
+    "title": "November 9",
+    "author": "Colleen Hoover",
+    "genre": "Contemporary Romance",
+    "moodTags": ["annual meetings", "burn victim", "emotional"]
+  },
+  {
+    "title": "Ugly Love",
+    "author": "Colleen Hoover",
+    "genre": "Contemporary Romance",
+    "moodTags": ["complicated", "emotional", "pilot"]
+  },
+  {
+    "title": "Confess",
+    "author": "Colleen Hoover",
+    "genre": "Contemporary Romance",
+    "moodTags": ["artistic", "confessions", "secrets"]
+  },
+  {
+    "title": "Hopeless",
+    "author": "Colleen Hoover",
+    "genre": "Contemporary Romance",
+    "moodTags": ["young adult", "trauma", "healing"]
+  },
+  {
+    "title": "Losing Hope",
+    "author": "Colleen Hoover",
+    "genre": "Contemporary Romance",
+    "moodTags": ["male perspective", "companion", "emotional"]
+  },
+  {
+    "title": "Reminders of Him",
+    "author": "Colleen Hoover",
+    "genre": "Contemporary Romance",
+    "moodTags": ["redemption", "single mother", "second chances"]
+  },
+  {
+    "title": "Layla",
+    "author": "Colleen Hoover",
+    "genre": "Romance",
+    "moodTags": ["supernatural", "mysterious", "love triangle"]
+  },
+  {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "moodTags": ["space", "problem-solving", "friendship"]
+  },
+  {
+    "title": "Artemis",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "moodTags": ["lunar", "heist", "female protagonist"]
+  },
+  {
+    "title": "The Egg",
+    "author": "Andy Weir",
+    "genre": "Short Stories",
+    "moodTags": ["philosophical", "afterlife", "reincarnation"]
+  },
+  {
+    "title": "The Martian: Classroom Edition",
+    "author": "Andy Weir",
+    "genre": "Science Fiction",
+    "moodTags": ["educational", "survival", "Mars"]
+  },
+  {
+    "title": "Klara and the Sun",
+    "author": "Kazuo Ishiguro",
+    "genre": "Literary Fiction",
+    "moodTags": ["artificial intelligence", "love", "observational"]
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "genre": "Dystopian Fiction",
+    "moodTags": ["haunting", "ethical", "cloning"]
+  },
+  {
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "genre": "Literary Fiction",
+    "moodTags": ["duty", "regret", "English"]
+  },
+  {
+    "title": "The Buried Giant",
+    "author": "Kazuo Ishiguro",
+    "genre": "Fantasy",
+    "moodTags": ["allegorical", "memory", "medieval"]
+  },
+  {
+    "title": "An Artist of the Floating World",
+    "author": "Kazuo Ishiguro",
+    "genre": "Literary Fiction",
+    "moodTags": ["post-war", "artistic", "Japanese"]
+  },
+  {
+    "title": "A Pale View of Hills",
+    "author": "Kazuo Ishiguro",
+    "genre": "Literary Fiction",
+    "moodTags": ["memory", "Japanese", "subtle"]
+  },
+  {
+    "title": "The Unconsoled",
+    "author": "Kazuo Ishiguro",
+    "genre": "Literary Fiction",
+    "moodTags": ["surreal", "pianist", "dreamlike"]
+  },
+  {
+    "title": "When We Were Orphans",
+    "author": "Kazuo Ishiguro",
+    "genre": "Literary Fiction",
+    "moodTags": ["detective", "Shanghai", "childhood"]
+  },
+  {
+    "title": "Nocturnes",
+    "author": "Kazuo Ishiguro",
+    "genre": "Short Stories",
+    "moodTags": ["musical", "romantic", "melancholic"]
+  },
+  {
+    "title": "My Name Is Memory",
+    "author": "Ann Brashares",
+    "genre": "Romance",
+    "moodTags": ["reincarnation", "eternal love", "mystical"]
+  },
+  {
+    "title": "The Sisterhood of the Traveling Pants",
+    "author": "Ann Brashares",
+    "genre": "Young Adult",
+    "moodTags": ["friendship", "coming-of-age", "magical"]
+  },
+  {
+    "title": "The Second Summer of the Sisterhood",
+    "author": "Ann Brashares",
+    "genre": "Young Adult",
+    "moodTags": ["friendship", "summer", "growth"]
+  },
+  {
+    "title": "Girls in Pants",
+    "author": "Ann Brashares",
+    "genre": "Young Adult",
+    "moodTags": ["friendship", "senior year", "transition"]
+  },
+  {
+    "title": "Forever in Blue",
+    "author": "Ann Brashares",
+    "genre": "Young Adult",
+    "moodTags": ["friendship", "college", "change"]
+  },
+  {
+    "title": "Sisterhood Everlasting",
+    "author": "Ann Brashares",
+    "genre": "Women's Fiction",
+    "moodTags": ["adult friendship", "tragedy", "reunion"]
+  },
+  {
+    "title": "The Last Summer (of You and Me)",
+    "author": "Ann Brashares",
+    "genre": "Young Adult",
+    "moodTags": ["beach", "love triangle", "summer"]
+  },
+  {
+    "title": "3 Willows",
+    "author": "Ann Brashares",
+    "genre": "Young Adult",
+    "moodTags": ["friendship", "middle school", "growth"]
+  },
+  {
+    "title": "The Here and Now",
+    "author": "Ann Brashares",
+    "genre": "Young Adult",
+    "moodTags": ["time travel", "romance", "dystopian"]
+  },
+  {
+    "title": "The Whole Thing Together",
+    "author": "Ann Brashares",
+    "genre": "Young Adult",
+    "moodTags": ["blended family", "summer", "love"]
+  },
+  {
+    "title": "The Poppy War",
+    "author": "R.F. Kuang",
+    "genre": "Fantasy",
+    "moodTags": ["war", "dark", "Chinese mythology"]
+  },
+  {
+    "title": "The Dragon Republic",
+    "author": "R.F. Kuang",
+    "genre": "Fantasy",
+    "moodTags": ["civil war", "political", "drug addiction"]
+  },
+  {
+    "title": "The Burning God",
+    "author": "R.F. Kuang",
+    "genre": "Fantasy",
+    "moodTags": ["conclusion", "power", "sacrifice"]
+  },
+  {
+    "title": "Babel",
+    "author": "R.F. Kuang",
+    "genre": "Fantasy",
+    "moodTags": ["academic", "colonial", "language magic"]
+  },
+  {
+    "title": "The Fifth Season",
+    "author": "N.K. Jemisin",
+    "genre": "Fantasy",
+    "moodTags": ["seismic", "oppression", "apocalyptic"]
+  },
+  {
+    "title": "The Obelisk Gate",
+    "author": "N.K. Jemisin",
+    "genre": "Fantasy",
+    "moodTags": ["fantastical"]
   }
 ]
